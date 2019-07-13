@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Lucas Martins</Authors>
+    <Description>Biblioteca para efetuar cálculo de soma, subtração, multiplicação e divisão.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <PackageTags>.NET, .NET Core, Programme.NET</PackageTags>
+  </PropertyGroup>
+
+</Project>
