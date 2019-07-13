@@ -26,5 +26,24 @@ namespace LibraryCalc01
                 throw new Exception( "Error calculate addition", ex );
             }
         }
+
+        public double Calculate(params double[] values )
+        {
+            try
+            {
+                double result = 0;
+
+                for ( int i = 0; i < values.Length; i++ )
+                {
+                    result += values[i]; 
+                }
+
+                return result;
+            }
+            catch ( Exception ex)
+            {
+                throw new Exception( "Error calculate addition", ex ); ;
+            }
+        }
     }
 }
