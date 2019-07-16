@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCalc01", "LibraryCalc01\LibraryCalc01.csproj", "{84ACA5A5-A767-4C57-B311-9F7056D5A184}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCalc01Tests", "LibraryCalc02Tests\LibraryCalc01Tests.csproj", "{3F5B9A64-8796-49A4-8C24-1EDAF7EFA91F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCalc01Tests", "LibraryCalc01Tests\LibraryCalc01Tests.csproj", "{3F5B9A64-8796-49A4-8C24-1EDAF7EFA91F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
